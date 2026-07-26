@@ -8,7 +8,7 @@
 *   **Исходные данные:** [Kaggle: DNA Classification Dataset](https://www.kaggle.com/datasets/miadul/dna-classification-dataset)
 *   **Код анализа (Notebook):** [GitHub: dna_analysis_notebook.ipynb](https://github.com/akava-pink/my-first-project/blob/main/dna_analysis_notebook.ipynb)
 *   **Очищенный датасет:** [Google Drive: synthetic_dna_dataset_cleaned.csv](https://drive.google.com/drive/u/0/folders/19THvs_dho_rB8WyfXhDoeh16D1FlDCm3)
-*   **Интерактивный дашборд:** [Yandex DataLens Dashboard](#) *(https://datalens.yandex/lcb6p7n77p404)*
+*   **Интерактивный дашборд:** [Yandex DataLens Dashboard](https://datalens.yandex/lcb6p7n77p404)
 
 ## Структура файлов проекта
 Проект организован по стандарту, обеспечивающему прозрачность и воспроизводимость результатов:
