@@ -1,5 +1,4 @@
 # Анализ структурных особенностей ДНК (GC-Content)
-
 ## Описание проекта
 Данный проект представляет собой разведочный анализ данных (EDA) синтетического датасета биологических образцов ДНК. Основная цель исследования — выявить закономерности в распределении содержания гуанина и цитозина (GC-Content) в зависимости от типа организма (`Class_Label`) и уровня риска заболевания (`Disease_Risk`), а также оценить пригодность этого признака для первичной классификации.
 
@@ -9,7 +8,7 @@
 *   **Исходные данные:** [Kaggle: DNA Classification Dataset](https://www.kaggle.com/datasets/miadul/dna-classification-dataset)
 *   **Код анализа (Notebook):** [GitHub: dna_analysis_notebook.ipynb](https://github.com/akava-pink/my-first-project/blob/main/dna_analysis_notebook.ipynb)
 *   **Очищенный датасет:** [Google Drive: synthetic_dna_dataset_cleaned.csv](https://drive.google.com/drive/u/0/folders/19THvs_dho_rB8WyfXhDoeh16D1FlDCm3)
-*   **Интерактивный дашборд:** [Yandex DataLens Dashboard](#) *(вставьте сюда ссылку на ваш опубликованный дашборд)*
+*   **Интерактивный дашборд:** [Yandex DataLens Dashboard](#) *(https://datalens.yandex/lcb6p7n77p404)*
 
 ## Структура файлов проекта
 Проект организован по стандарту, обеспечивающему прозрачность и воспроизводимость результатов:
